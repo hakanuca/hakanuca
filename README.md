@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQEtA6HO4FNHpg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1726776876095?e=1733356800&v=beta&t=trunK-zBs98MD35CneILemqCEizzRSPd7P8fgfTzPPQ)]
+![MasterHead](https://github.com/hakanuca/My-Pixel-Arts/blob/main/HAKAN%20UCA%20(1).gif?raw=true)
 
 <h1 align="center">Hi 👋, I'm Hakan Uca</h1>
 <h3 align="center">I am a Software Engineer who is open to developing himself in every field related to Game and Application development and who also tries to improve himself by producing projects in areas of my interest.</h3>
